@@ -1,1 +1,2 @@
 hello,git!Git is very easy.
+Git is free software.

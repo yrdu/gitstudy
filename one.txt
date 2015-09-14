@@ -1,1 +1,1 @@
-hello,git!
+hello,git!Git is very easy.
